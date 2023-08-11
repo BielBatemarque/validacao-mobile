@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "validacao",
+    "slug": "validacao",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
